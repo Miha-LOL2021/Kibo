@@ -1,0 +1,4 @@
+ev3-dc==0.9.10.2
+ev3-python==0.0.2
+pybluez2==0.46
+pyserial==3.5
